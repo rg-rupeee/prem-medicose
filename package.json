@@ -1,0 +1,21 @@
+{
+  "name": "prem-medicose",
+  "version": "1.0.0",
+  "description": "prem medicose website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [
+    "prem-medicose"
+  ],
+  "author": "Rupesh Garhwal <rupeshgarhwal3920@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.6",
+    "morgan": "^1.10.0",
+    "xss-clean": "^0.1.1"
+  }
+}
