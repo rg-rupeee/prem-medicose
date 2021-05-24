@@ -146,7 +146,7 @@ a.text-muted:hover {
 }
 
 .bg-custom {
-  background-color: #32cfaa !important;
+  background-color: #43c3dd !important;
 }
 
 .text-custom {
@@ -558,8 +558,8 @@ p {
 }
 
 .btn-custom {
-  background-color: #32cfaa !important;
-  border: 1px solid #32cfaa !important;
+  background-color: #43c3dd !important;
+  border: 1px solid #43c3dd !important;
   color: #ffffff !important;
 }
 
@@ -568,14 +568,14 @@ p {
 .btn-custom:active,
 .btn-custom.active,
 .btn-custom.focus {
-  background-color: #27a789 !important;
-  border-color: #27a789 !important;
+  background-color: #7b7b7b !important;
+  border-color: #7b7b7b !important;
   color: #ffffff !important;
 }
 
 .btn-outline-custom {
-  border: 1px solid #32cfaa;
-  color: #32cfaa;
+  border: 1px solid #43c3dd;
+  color: #43c3dd;
   background-color: transparent;
 }
 
@@ -585,8 +585,8 @@ p {
 .btn-outline-custom.active,
 .btn-outline-custom.focus,
 .btn-outline-custom:not(:disabled):not(.disabled):active {
-  background-color: #32cfaa;
-  border-color: #32cfaa;
+  background-color: #43c3dd;
+  border-color: #43c3dd;
   color: #ffffff;
 }
 
@@ -1113,9 +1113,9 @@ button:not(:disabled) {
 }
 
 .services:hover .icon {
-  border-color: #32cfaa !important;
+  border-color: #43c3dd !important;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background: #32cfaa !important;
+  background: #43c3dd !important;
   color: #ffffff;
 }
 
