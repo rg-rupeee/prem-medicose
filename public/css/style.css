@@ -944,7 +944,7 @@ button:not(:disabled) {
 
 @media (min-width: 200px) and (max-width: 768px) {
   .navbar-custom {
-    background-color: #353535;
+    background-color: #159de4;
     padding: 10px 0px !important;
   }
   .navbar-custom .container {
